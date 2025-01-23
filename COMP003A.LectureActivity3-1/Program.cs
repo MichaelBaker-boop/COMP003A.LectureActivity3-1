@@ -1,4 +1,10 @@
-﻿using System.ComponentModel.Design;
+﻿/*
+ Author: Michael Baker
+ Course: COMP-003A
+ Faculty: Jonathan Cruz
+ Purpose: Demonstrate selection statements in C#.
+ */
+using System.ComponentModel.Design;
 
 namespace COMP003A.LectureActivity3_1
 {
